@@ -1,0 +1,6 @@
+to install snap in linux
+sudo apt install snap
+if you want to know more try man snap in linux terminal
+install man - sudo apt install man
+#Note - please use latest version of linux distro/tools
+Thankyou!!
